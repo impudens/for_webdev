@@ -4,6 +4,8 @@
 
 <p align="center">
   В этом репозитории представлен cборник полезных материалов для Front-end разработчика.
+  
+  
   <br>
   <img src="https://komarev.com/ghpvc/?username=impudens&style=flat-square&color=blue" alt="">
 </p>
@@ -26,6 +28,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
 </div>
+
+## Ссылка на скачивание платных курсов
+
+[![Miro Badge](https://img.shields.io/badge/-Miro-yellow?logo=Miro&logoColor=%23050038)](https://miro.com/app/board/uXjVMcqtzvA=/?share_link_id=25125987955) 
 
 ## HTML и CSS
 

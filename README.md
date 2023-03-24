@@ -159,19 +159,10 @@
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
 
 ## Тренировка написания кода
-  - <a href="https://leetcode.com/" target="_blank" align="end">
-      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="25" height="25" alt="telegram group" align="center"/> LeetCode
-    </a>
-  - <a href="https://www.codewars.com/" target="_blank" align="end">
-      <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="25" height="25" alt="telegram group" align="center"/> Codewars
-    </a> 
-  - <a href="https://coderbyte.com/" target="_blank" align="end">
-      <img src="https://coderbytestaticimages.s3.amazonaws.com/dashboard-v3/coderbyte_logo_digital_white.png" height="25" alt="telegram group" align="center"/> Coderbyte
-    </a> 
-  - <a href="https://www.hackerrank.com/" target="_blank" align="end">
-      <img src="data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 256 256' style='enable-background:new 0 0 256 256;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%230E141E;%7D .st1%7Bfill:%23FFFFFF;%7D .st2%7Bfill:%2300EA64;%7D%0A%3C/style%3E%3Crect x='0' y='0' class='st0' width='256' height='256'/%3E%3Cg%3E%3Cpath class='st1' d='M125.39,85.35h-19.26c-0.65,0-1.18,0.53-1.18,1.18v30.61H84.2V86.54c0-0.65-0.53-1.18-1.18-1.18H63.76 c-0.65,0-1.18,0.53-1.18,1.18v82.85c0,0.65,0.53,1.18,1.18,1.18h19.26c0.65,0,1.18-0.53,1.18-1.18v-30.61h20.75v30.61 c0,0.65,0.53,1.18,1.18,1.18h19.26c0.65,0,1.18-0.53,1.18-1.18V86.54C126.57,85.88,126.04,85.35,125.39,85.35z'/%3E%3Cpath class='st2' d='M199.76,170.57h-61.64c-0.65,0-1.18-0.53-1.18-1.18V86.53c0-0.65,0.53-1.18,1.18-1.18h61.64 c0.65,0,1.18,0.53,1.18,1.18v82.85C200.94,170.04,200.41,170.57,199.76,170.57z'/%3E%3C/g%3E%3C/svg%3E%0A" height="25" alt="telegram group" align="center"/> HackerRank
-    </a> 
-
+  - [![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=LeetCode)](https://leetcode.com/)
+  - [![CodeWars](https://img.shields.io/badge/-CodeWars-%23B1361E?logo=CodeWars)](https://www.codewars.com/)
+  - [![HackerRank](https://img.shields.io/badge/-HackerRank-black?logo=HackerRank)](https://coderbyte.com/)
+  
 ## Автор
 
 [![Ivan Trofimov](https://img.shields.io/badge/-Ivan%20Trofimov-black?logo=GitHub)](https://github.com/impudens)

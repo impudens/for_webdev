@@ -1,11 +1,11 @@
-# Полезные материалы по веб-разработке! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/impudens/awesome-frontend-dev)
+# Полезные материалы по веб-разработке! Мой канал [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
 
+  
+
+<p align="center">
   В этом репозитории представлен cборник полезных материалов для Front-end разработчика.
-
-  Мой телеграм канал - [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=impudens&style=flat-square&color=blue" alt="">
-
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=impudens&style=flat-square&color=blue" alt="">
 </p>
 
 <div id="header" align="center">

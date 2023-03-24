@@ -1,4 +1,4 @@
-# Полезные материалы по веб-разработке! Мой канал [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
+# Полезные материалы по веб-разработке! [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
 
   
 

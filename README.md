@@ -1,11 +1,15 @@
 # Полезные материалы по веб-разработке! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/impudens/awesome-frontend-dev)
 
-Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику!
+  В этом репозитории представлен cборник полезных материалов для Front-end разработчика.
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=impudens&style=flat-square&color=blue" alt=""></p>
+  Мой телеграм канал - [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=impudens&style=flat-square&color=blue" alt="">
+
+</p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,7 +22,7 @@
     <a href="https://vk.com/i1_trofimov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://dzen.ru/troff_webdev" target="_blank"
+    <a href="https://dzen.ru/troff_webdev" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
 </div>
@@ -162,7 +166,7 @@
   - [![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=LeetCode)](https://leetcode.com/)
   - [![CodeWars](https://img.shields.io/badge/-CodeWars-%23B1361E?logo=CodeWars)](https://www.codewars.com/)
   - [![HackerRank](https://img.shields.io/badge/-HackerRank-black?logo=HackerRank)](https://coderbyte.com/)
-  
+
 ## Автор
 
 [![Ivan Trofimov](https://img.shields.io/badge/-Ivan%20Trofimov-black?logo=GitHub)](https://github.com/impudens)

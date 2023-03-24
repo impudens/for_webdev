@@ -1,4 +1,3 @@
-
 # Полезные материалы по веб-разработке! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/impudens/awesome-frontend-dev)
 
 Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику!
@@ -119,12 +118,12 @@
  - [Полезные материалы по всему, что может быть интересно frontend-разработчику.](https://t.me/frontendproglib)
 
 ## YouTube каналы
-
- - [Скоро...]()
- <a href="https://www.youtube.com/@VladilenMinin" target="_blank">
+  - <a href="https://www.youtube.com/@VladilenMinin" target="_blank" align="end">
       <img src="https://user-images.githubusercontent.com/116535224/227592586-eae1142a-5f94-45d0-a774-3fa81443c2e3.png" width="40" height="40" alt="telegram group" />
-      Владилен Минин
- </a>
+      <div align="start">
+        Владилен Минин 
+      </div>
+    </a>
  
 ## Бесплатные курсы
 

@@ -1,5 +1,5 @@
-# Полезные материалы по веб-разработке!    [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
-
+# <p align="center"> Полезные материалы по веб-разработке!    [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
+</p>
   
 
 <p align="center">

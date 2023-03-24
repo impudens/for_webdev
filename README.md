@@ -18,7 +18,7 @@
     <a href="https://vk.com/i1_trofimov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://dzen.ru/troff_webdev" target="_blank">
+    <a href="https://dzen.ru/troff_webdev" target="_blank"
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a>
 </div>
@@ -119,12 +119,44 @@
 
 ## YouTube каналы
   - <a href="https://www.youtube.com/@VladilenMinin" target="_blank" align="end">
-      <img src="https://user-images.githubusercontent.com/116535224/227592586-eae1142a-5f94-45d0-a774-3fa81443c2e3.png" width="40" height="40" alt="telegram group" />
-      <div align="start">
-        Владилен Минин 
-      </div>
+
+      <img src="https://user-images.githubusercontent.com/116535224/227592586-eae1142a-5f94-45d0-a774-3fa81443c2e3.png" width="25" height="25" alt="telegram group" align="center"/> Владилен Минин 
     </a>
- 
+
+  - <a href="https://www.youtube.com/@FreelancerLifeStyle" target="_blank" align="end">
+
+      <img src="https://yt3.googleusercontent.com/_wQzr_d3FtLx91_37CR2x_U1W0UaOYzLySQSk45ZZBDhPE9jSo-iTuHoE66-JlOgk6MQEsjJLQ=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Фрілансер по життю
+    </a>
+
+  - <a href="https://www.youtube.com/@svyat404" target="_blank" align="end">
+
+      <img src="https://yt3.googleusercontent.com/CDyGd9m2mqYWsZGu3qfuYOe8tHoi8q7BsKFNIKVmxJ7-DiqR49RV8Bj6T7Snq-jht7fQvkeF0A=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Свят404
+    </a> 
+  - <a href="https://www.youtube.com/@sergeydmitrievsky" target="_blank" align="end">
+
+      <img src="https://yt3.googleusercontent.com/mn-LTkBBlB8VfIa65MhhBM6vgMve15KThUCjnIUBrB4rcclFU9n3nhFMgShIyMYZx-64p3AS=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Sergey Dmitrievsky 
+    </a> 
+  - <a href="https://www.youtube.com/@aocore" target="_blank" align="end">
+
+      <img src="https://yt3.googleusercontent.com/ytc/AL5GRJU3KGkumrU6QtLsbxqhIysAW7s89npgqtE_zkp5=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Лёша Корепанов
+    </a> 
+  - <a href="https://www.youtube.com/@pepelsbey" target="_blank" align="end">
+
+      <img src="https://yt3.googleusercontent.com/_CJily8GWgF-NFHwPMBpUPf-Zcrer31xJy8I-xdYUGu4RpzaSXqwzINpTK1KisHbYb-i535_ecY=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Вадим Макеев
+    </a> 
+  - <a href="https://www.youtube.com/@HawkStyle1" target="_blank" align="end">
+
+      <img src="https://yt3.googleusercontent.com/6cdiklJ15Ylqq7IPOaIzDb8KFB_fvBASeCMOJ27ErfI1-RufL_Q8Nk83f6EtfqHZOkplOD1A=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Алексей Савченко
+    </a> 
+  - <a href="https://www.youtube.com/@SuprunAlexey" target="_blank" align="end">
+
+      <img src="https://yt3.googleusercontent.com/C6yV1fuhtQrsrOXmZRg43QYY5C2mX_TPom1vENpC0W_RqwRuxjqEin3lkm03aAXXroI9Q4aE=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Web Developer Blog
+    </a> 
+  - <a href="https://www.youtube.com/@wdm" target="_blank" align="end">
+
+      <img src="https://yt3.googleusercontent.com/S7mowm8wxEGtUk0w7iVRaTRfc6obGV7z0EhDBYGABcE7o5vcKOYBfQQnfTyFHseRBnge1ZJQRLU=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> WebDesign Master
+    </a> 
+  
 ## Бесплатные курсы
 
  - [Изучение возможностей git](https://learngitbranching.js.org/?locale=ru_RU)
@@ -136,15 +168,23 @@
  - [Первые шаги в JavaScript: создаём сайт](https://netology.ru/programs/javascript-free)
 
 ## Тренировка написания кода
+  - <a href="https://leetcode.com/" target="_blank" align="end">
 
- - [LeetCode](https://leetcode.com/)
- - [Codewars](https://www.codewars.com/)
- - [Coderbyte](https://coderbyte.com/)
- - [HackerRank](https://www.hackerrank.com/)
- - [Project Euler](https://projecteuler.net/)
- - [Codeforces](https://codeforces.com/)
+      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="25" height="25" alt="telegram group" align="center"/> LeetCode
+    </a>
+  - <a href="https://www.codewars.com/" target="_blank" align="end">
 
+      <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="25" height="25" alt="telegram group" align="center"/> Codewars
+    </a> 
+  - <a href="https://coderbyte.com/" target="_blank" align="end">
+
+      <img src="https://coderbytestaticimages.s3.amazonaws.com/dashboard-v3/coderbyte_logo_digital_white.png" height="25" alt="telegram group" align="center"/> Coderbyte
+    </a> 
+  - <a href="https://www.hackerrank.com/" target="_blank" align="end">
+
+      <img src="data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 256 256' style='enable-background:new 0 0 256 256;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%230E141E;%7D .st1%7Bfill:%23FFFFFF;%7D .st2%7Bfill:%2300EA64;%7D%0A%3C/style%3E%3Crect x='0' y='0' class='st0' width='256' height='256'/%3E%3Cg%3E%3Cpath class='st1' d='M125.39,85.35h-19.26c-0.65,0-1.18,0.53-1.18,1.18v30.61H84.2V86.54c0-0.65-0.53-1.18-1.18-1.18H63.76 c-0.65,0-1.18,0.53-1.18,1.18v82.85c0,0.65,0.53,1.18,1.18,1.18h19.26c0.65,0,1.18-0.53,1.18-1.18v-30.61h20.75v30.61 c0,0.65,0.53,1.18,1.18,1.18h19.26c0.65,0,1.18-0.53,1.18-1.18V86.54C126.57,85.88,126.04,85.35,125.39,85.35z'/%3E%3Cpath class='st2' d='M199.76,170.57h-61.64c-0.65,0-1.18-0.53-1.18-1.18V86.53c0-0.65,0.53-1.18,1.18-1.18h61.64 c0.65,0,1.18,0.53,1.18,1.18v82.85C200.94,170.04,200.41,170.57,199.76,170.57z'/%3E%3C/g%3E%3C/svg%3E%0A" height="25" alt="telegram group" align="center"/> HackerRank
+    </a> 
 
 ## Автор
 
-- [@impudens](https://github.com/impudens)
+[![Ivan Trofimov](https://img.shields.io/badge/-Ivan%20Trofimov-black?logo=GitHub)](https://github.com/impudens)

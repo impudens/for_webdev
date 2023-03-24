@@ -119,41 +119,32 @@
 
 ## YouTube каналы
   - <a href="https://www.youtube.com/@VladilenMinin" target="_blank" align="end">
-
       <img src="https://user-images.githubusercontent.com/116535224/227592586-eae1142a-5f94-45d0-a774-3fa81443c2e3.png" width="25" height="25" alt="telegram group" align="center"/> Владилен Минин 
     </a>
 
   - <a href="https://www.youtube.com/@FreelancerLifeStyle" target="_blank" align="end">
-
       <img src="https://yt3.googleusercontent.com/_wQzr_d3FtLx91_37CR2x_U1W0UaOYzLySQSk45ZZBDhPE9jSo-iTuHoE66-JlOgk6MQEsjJLQ=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Фрілансер по життю
     </a>
 
   - <a href="https://www.youtube.com/@svyat404" target="_blank" align="end">
-
       <img src="https://yt3.googleusercontent.com/CDyGd9m2mqYWsZGu3qfuYOe8tHoi8q7BsKFNIKVmxJ7-DiqR49RV8Bj6T7Snq-jht7fQvkeF0A=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Свят404
     </a> 
   - <a href="https://www.youtube.com/@sergeydmitrievsky" target="_blank" align="end">
-
       <img src="https://yt3.googleusercontent.com/mn-LTkBBlB8VfIa65MhhBM6vgMve15KThUCjnIUBrB4rcclFU9n3nhFMgShIyMYZx-64p3AS=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Sergey Dmitrievsky 
     </a> 
   - <a href="https://www.youtube.com/@aocore" target="_blank" align="end">
-
       <img src="https://yt3.googleusercontent.com/ytc/AL5GRJU3KGkumrU6QtLsbxqhIysAW7s89npgqtE_zkp5=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Лёша Корепанов
     </a> 
   - <a href="https://www.youtube.com/@pepelsbey" target="_blank" align="end">
-
       <img src="https://yt3.googleusercontent.com/_CJily8GWgF-NFHwPMBpUPf-Zcrer31xJy8I-xdYUGu4RpzaSXqwzINpTK1KisHbYb-i535_ecY=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Вадим Макеев
     </a> 
   - <a href="https://www.youtube.com/@HawkStyle1" target="_blank" align="end">
-
       <img src="https://yt3.googleusercontent.com/6cdiklJ15Ylqq7IPOaIzDb8KFB_fvBASeCMOJ27ErfI1-RufL_Q8Nk83f6EtfqHZOkplOD1A=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Алексей Савченко
     </a> 
   - <a href="https://www.youtube.com/@SuprunAlexey" target="_blank" align="end">
-
       <img src="https://yt3.googleusercontent.com/C6yV1fuhtQrsrOXmZRg43QYY5C2mX_TPom1vENpC0W_RqwRuxjqEin3lkm03aAXXroI9Q4aE=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> Web Developer Blog
     </a> 
   - <a href="https://www.youtube.com/@wdm" target="_blank" align="end">
-
       <img src="https://yt3.googleusercontent.com/S7mowm8wxEGtUk0w7iVRaTRfc6obGV7z0EhDBYGABcE7o5vcKOYBfQQnfTyFHseRBnge1ZJQRLU=s176-c-k-c0x00ffffff-no-rj" width="25" height="25" alt="telegram group" align="center"/> WebDesign Master
     </a> 
   

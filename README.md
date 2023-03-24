@@ -170,7 +170,7 @@
 
 ## Тренировка написания кода
   - [![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=LeetCode)](https://leetcode.com/)
-  - [![CodeWars]([https://img.shields.io/badge/-CodeWars-%23B1361E?logo=CodeWars](https://img.shields.io/badge/-CodeWars-black?logo=CodeWars&logoColor=%23B1361E))](https://www.codewars.com/)
+  - [![CodeWars](https://img.shields.io/badge/-CodeWars-black?logo=CodeWars&logoColor=%23B1361E)](https://www.codewars.com/)
   - [![HackerRank](https://img.shields.io/badge/-HackerRank-black?logo=HackerRank)](https://coderbyte.com/)
 
 ## Автор
